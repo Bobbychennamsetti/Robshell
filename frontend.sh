@@ -7,5 +7,4 @@ unzip /tmp/frontend.zip
 # some file need to be execute
 
 systemctl restart nginx
-
 systemctl enable nginx
