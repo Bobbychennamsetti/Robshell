@@ -1,6 +1,6 @@
 a=10
 
-name = bobby
+#name = bobby
 
 echo a value is $a
 
